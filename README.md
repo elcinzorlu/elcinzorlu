@@ -48,6 +48,10 @@ I am currently working as Backend developer in a software company. When I comple
     <img src="https://img.shields.io/badge/flask-f0f0d8.svg?style=for-the-badge&logo=flask&logoColor=blue" 
       alt="python"/> 
   </a> 
+      <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/django-d5e3b3.svg?style=for-the-badge&logo=django&logoColor=blue" 
+      alt="python"/> 
+  </a> 
     <a href="https://kotlinlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/kotlin-c846e8.svg?style=for-the-badge&logo=kotlin&logoColor=white" 
       alt="kotlin"/> 
