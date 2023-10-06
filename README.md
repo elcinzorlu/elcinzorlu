@@ -18,6 +18,9 @@
   <a href="https://wakatime.com/@elcinzorlu">
   <img src="https://img.shields.io/badge/Wakatime-pink?style=for-the-badge&logo=wakatime&logoColor=red" alt="Wakatime Badge"/>
 </a>
+    <a href="https://github.com/elcinzorlu" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
 </div>
 
 
@@ -25,7 +28,7 @@
 
 My name is **Elçin ZORLU** and welcome to my profile.
 
-I am currently working as Backend developer in a software company. I would like to be of some help to programmers who love coding and are seeking inspiration.
+I am currently working as Backend developer in a software company. When I completed my bachelor's degree in industrial engineering, I realized my interest in software development and decided to pursue a career in this field. I would like to be of some help to programmers who love coding and are seeking inspiration.
   
 
  <h3 align="center">Backend</h3>
@@ -39,6 +42,10 @@ I am currently working as Backend developer in a software company. I would like 
   </a> 
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/python-ebdb34.svg?style=for-the-badge&logo=python&logoColor=blue" 
+      alt="python"/> 
+  </a> 
+    <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/flask-f0f0d8.svg?style=for-the-badge&logo=flask&logoColor=blue" 
       alt="python"/> 
   </a> 
     <a href="https://kotlinlang.org/" target="_blank"> 
@@ -74,9 +81,6 @@ I am currently working as Backend developer in a software company. I would like 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://gitlab.com/Elanza-48" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
