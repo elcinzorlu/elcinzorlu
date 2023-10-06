@@ -60,6 +60,10 @@ I am currently working as Backend developer in a software company. When I comple
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" 
       alt="java"/> 
   </a> 
+        <a href="https://www.java.com/en/ target="_blank"> 
+    <img src="https://img.shields.io/badge/android-9bd904?style=for-the-badge&logo=android&logoColor=white" 
+      alt="android"/> 
+  </a> 
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
