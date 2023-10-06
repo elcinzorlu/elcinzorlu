@@ -24,7 +24,7 @@
 </div>
 
 
-### Hi there 👋🎉
+### Hi there 
 
 My name is **Elçin ZORLU** and welcome to my profile.
 
