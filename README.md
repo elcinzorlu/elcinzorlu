@@ -45,6 +45,10 @@ I am currently working as Backend developer in a software company. I would like 
     <img src="https://img.shields.io/badge/kotlin-c846e8.svg?style=for-the-badge&logo=kotlin&logoColor=white" 
       alt="kotlin"/> 
   </a> 
+      <a href="https://www.java.com/en/ target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" 
+      alt="java"/> 
+  </a> 
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
@@ -81,6 +85,28 @@ I am currently working as Backend developer in a software company. I would like 
     <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>
+  </a>
+</p>
+<h3 align="center">Preferred IDEs  & Tools :</h3>
+<p align="center"> 
+  <a href="https://eclipse.org" target="_blank">
+    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://www.jetbrains.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
+  </a>
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
+  <a href="https://www.soapui.org/" target="_blank">
+    <img src="https://img.shields.io/badge/soapui-f5f507.svg?style=for-the-badge&logo=soap-ui&logoColor=white"
+      alt="soapui"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
 </div>
