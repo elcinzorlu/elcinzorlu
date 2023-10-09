@@ -28,7 +28,7 @@
 
 My name is **Elçin ZORLU** and welcome to my profile.
 
-I am currently working as Backend developer in a software company. When I completed my bachelor's degree in industrial engineering, I realized my interest in software development and decided to pursue a career in this field. I would like to be of some help to programmers who love coding and are seeking inspiration.
+I am currently working as Backend developer in a software company. When I completed my bachelor's degree in Industrial Engineering, I realized my interest in software development and decided to pursue a career in this field. I would like to be of some help to programmers who love coding and are seeking inspiration.
   
 
  <h3 align="center">Backend</h3>
